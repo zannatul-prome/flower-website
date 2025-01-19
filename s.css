@@ -1,12 +1,13 @@
+
 body{
-    width:1255px;
+    width:45vw;
     margin-left: 75px;
 
 }
 
 .hero{
-    width: 345px;
-    padding-left: 125px;
+    width:45vw;
+    padding-left: 2vw;
 }
 .hero h1{
     color:rgba(39, 39, 39, 1);
@@ -25,14 +26,55 @@ body{
 .part1{
     background-color: rgba(235, 89, 120, 0.3);
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-right:345px ;
-
-    
-
 }
 .part1 img{
     width: 345px;
 
 }
+/* title */
+.title h1{
+    color: rgba(39, 39, 39, 1);
+    text-align: center;
+}
+.title p{
+    color:rgba(39, 39, 39, 0.6);
+    padding-left: 5vw;
+    padding-right: 5vw;
+    
+}
+/*image*/
+.image .img1{
+    background-color: rgba(167, 33, 98, 0.15);
+    width: 7vw;
+    height: 11vw;
+    padding-left: 3vw;
+    padding-right: 1vw;
+    padding-top: 3vw;
+    border-top-left-radius: 7vw;
+    border-top-right-radius: 7vw;
+}
+.img2{
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 7vw;
+    height: 11vw;
+    padding-left: 3vw;
+    padding-right: 1vw;
+    padding-top: 3vw;
+    border-top-left-radius: 7vw;
+    border-top-right-radius: 7vw;
+}
+.img3{
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 7vw;
+    height: 11vw;
+    padding-left: 3vw;
+    padding-right: 1vw;
+    padding-top: 3vw;
+    border-top-left-radius: 7vw;
+    border-top-right-radius: 7vw;
+}
+
+
+
+
+
