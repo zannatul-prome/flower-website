@@ -1,0 +1,38 @@
+body{
+    width:1255px;
+    margin-left: 75px;
+
+}
+
+.hero{
+    width: 345px;
+    padding-left: 125px;
+}
+.hero h1{
+    color:rgba(39, 39, 39, 1);
+    font-size: 35px;
+}
+.hero p{
+    color: rgba(39, 39, 39, 0.6);
+}
+.hero button{
+    background-color: rgba(229, 84, 115, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    width: 97px;
+    height: 37px;
+}
+.part1{
+    background-color: rgba(235, 89, 120, 0.3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right:345px ;
+
+    
+
+}
+.part1 img{
+    width: 345px;
+
+}
